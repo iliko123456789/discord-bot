@@ -19,7 +19,7 @@ def get_response(message: str) -> str:
         return 'i am sorry. i cannot say what time is now next time i will be better'
     
     if p_message == 'who is best programmer?':
-        return 'ilia'
+        return #'Your name'
 
     if p_message == 'how are you?':
         return 'I am a bot, so I don\'t have feelings, but thanks for asking! How can I assist you?'
@@ -86,6 +86,3 @@ def get_response(message: str) -> str:
     
     if p_message == 'hi':
         return 'Hi'
-    
-    if p_message == 'calculatore':
-        return
