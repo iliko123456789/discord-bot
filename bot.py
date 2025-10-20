@@ -10,7 +10,7 @@ import os
 # ------------- CONFIG -------------
 TOKEN = ""  # ← put your Discord bot token
 PROTECTED_USER_ID = None
-PROTECTED_USERNAME = "ilia1234567"
+PROTECTED_USERNAME = "Your username"
 PROTECTED_ROLE_NAME = "Creator-Admin"
 LOCAL_MODEL = "llama3:latest"  # exact model name in Ollama app
 MEMORY_FILE = "bot_memory.json"
